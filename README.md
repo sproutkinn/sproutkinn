@@ -93,3 +93,5 @@
 <div align="center">
   <img src="https://media.discordapp.net/attachments/1164296708537192479/1572783386362126510/tumblr_fb8ac81bedfbe2b231ac519603208258_1bbe1c87_2048.png?ex=6affa02c&is=6afe4eac&hm=8bf875b9b347c16d44ddc901166a1b56e367a037bdf9d4bb7b030bc9c7769b9c&format=webp&quality=lossless&width=1026&height=342" width="100%">
 </div>
+
+this is still a wip! rarely on this acc . .
